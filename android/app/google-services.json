@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "140799658739",
+    "project_id": "complete-login-app",
+    "storage_bucket": "complete-login-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140799658739:android:244b289d3016a65853c586",
+        "android_client_info": {
+          "package_name": "com.example.complete_reference"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140799658739-piqi3uraibf01plsh824oomtfc0dtaun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lJ0suhDALaVlo7orPC-2ypkyi9q2nzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140799658739-piqi3uraibf01plsh824oomtfc0dtaun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
